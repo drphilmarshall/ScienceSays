@@ -9,4 +9,4 @@ Science Hack Day San Francisco, 2014
 
 ### Demos:
 
-* [Growing a crystal](http://nbviewer.ipython.org/github/drphilmarshall/ScienceSays/blob/master/Crystal.ipynb)
+* [Growing a crystal](http://nbviewer.ipython.org/github/drphilmarshall/ScienceSays/blob/master/crystal.ipynb)
